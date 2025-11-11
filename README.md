@@ -1,1 +1,1 @@
-# Automated Emotion Detection of Players during a Football match
+# Automated Emotion Detection from a video
